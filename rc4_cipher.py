@@ -1,4 +1,4 @@
-#RC4
+#RC4 Cipher
 import fileinput
 
 """Función cast_bytes(text)
