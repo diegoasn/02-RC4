@@ -1,0 +1,2 @@
+#!/bin/sh
+python3 rc4_cipher.py
